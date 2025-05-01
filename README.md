@@ -1,6 +1,6 @@
 # 🛡️ Ghid Detaliat: Tehnici de Inginerie Socială și Atacuri Cibernetice
 
-Acest document oferă o descriere detaliată a celor mai comune și periculoase tehnici de inginerie socială și atacuri cibernetice. Poate fi folosit pentru educație, prevenție sau ca suport pentru un website accesat prin cod QR.
+Acest document oferă o descriere detaliată a celor mai comune și periculoase tehnici de inginerie socială și atacuri cibernetice
 
 ## 📧 1. Phishing
 Atacatorii trimit emailuri care par legitime, imitând companii reale (ex: bănci, rețele sociale) pentru a convinge utilizatorul să acceseze linkuri false și să introducă date sensibile. Adesea conțin mesaje alarmante precum: "Contul tău a fost compromis!".
